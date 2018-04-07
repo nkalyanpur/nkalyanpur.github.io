@@ -2,7 +2,6 @@
 title: Calvin Thrall
 email: cthrall@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a PhD student in the Department of Government at The University of Texas at Austin.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://calvinthrall.github.io" # the base hostname & protocol for your site
 twitter_username: calvinthrall
