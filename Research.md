@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research
+permalink: /Research/
+---
+
 # Working Papers
 1. **Strategic Silence and Moving Bars in International Investment Arbitration** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
 ___
