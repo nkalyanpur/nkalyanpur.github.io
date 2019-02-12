@@ -18,4 +18,4 @@ permalink: /Research/
 # Work in Progress
 1. **Supply Chains as a Driver of International Regulatory Coordination** (with [Carolina Moehlecke](http://utexas.academia.edu/CarolinaMoehlecke) and [Rachel Wellhausen](http://www.rwellhausen.com/))
 
-2. **Owning Up? Corporate Social Responsibility Initiatives and Firm Responsiveness to Human Rights Violations**
+2. **Legitimacy, Private Regulation, and Corporate Responsiveness to Human Rights Violations**
