@@ -21,6 +21,6 @@ permalink: /Research/
 
 # Work in Progress
 
-1. **Legitimacy, Private Regulation, and Corporate Responsiveness to Human Rights Violations**
+1. **Legitimacy, Private Regulation, and Corporate Responsiveness to Stakeholders**
 
 2. **Career Incentives, Investment Arbitration, and the Interpretation of International Law**
