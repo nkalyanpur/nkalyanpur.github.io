@@ -8,6 +8,7 @@ permalink: /Research/
 1. **Judicial Economy and Moving Bars in International Investment Arbitration** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) *Forthcoming, Review of International Organizations*
 
      * [PDF](assets/Moving-Bars-final.pdf)
+     * [Replication data + code](assets/JoThWe_replication_materials.zip)
 
 # Working Papers
 2. **Who's Afraid of Sunlight? Explaining Opposition to Transparency in Economic Development** (with [Nate Jensen](http://www.natemjensen.com/))
