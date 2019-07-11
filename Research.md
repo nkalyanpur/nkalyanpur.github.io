@@ -10,7 +10,8 @@ permalink: /Research/
 
 # Working Papers
 
-1. **Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement** (with [Carolina Moehlecke](http://utexas.academia.edu/CarolinaMoehlecke) and [Rachel Wellhausen](http://www.rwellhausen.com/)) *Under Review*
+1. **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_Jul2019.pdf)** (with [Carolina Moehlecke](http://utexas.academia.edu/CarolinaMoehlecke) and [Rachel Wellhausen](http://www.rwellhausen.com/)) *Under Review*
+      * [Appendix](assets/MTW_Jul2019_APPENDICES.pdf)
 
 2. **[Who's Afraid of Sunlight? Explaining Opposition to Transparency in Economic Development](https://equitablegrowth.org/wp-content/uploads/2019/02/0204-Jensen-Thrall-Whos-Afraid-of-Sunlight.pdf})** (with [Nate Jensen](http://www.natemjensen.com/))
 
