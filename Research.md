@@ -6,7 +6,7 @@ permalink: /Research/
 
 # Publication
 1. **[Judicial Economy and Moving Bars in International Investment Arbitration](assets/Moving-Bars-final.pdf)** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) *Forthcoming, Review of International Organizations*
-     * [Replication data + code](assets/JoThWe_replication_materials.zip)
+     * [[Gated .pdf](https://link-springer-com.ezproxy.lib.utexas.edu/article/10.1007/s11558-019-09364-y)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
 
 # Working Papers
 
