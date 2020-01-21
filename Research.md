@@ -19,8 +19,10 @@ permalink: /Research/
       * [WCEG Working Paper](https://equitablegrowth.org/working-papers/whos-afraid-of-sunlight-explaining-opposition-to-transparency-in-economic-development/)
       * Press/Commentary: [The Conversation](https://theconversation.com/amazon-hq2-texas-experience-shows-why-new-yorkers-should-be-skeptical-111137?utm_source=twitter&utm_medium=twitterbutton), [Austin-American Statesman](https://www.statesman.com/opinion/20190206/commentary-transparency-economic-development-regulations-are-dying-in-texas), [Dallas Morning News](https://www.dallasnews.com/opinion/commentary/2019/02/05/sweetheart-deal-deal-texas-trims-job-goals-companies-wont-hit-em), [Austin Business Journal](https://www.bizjournals.com/austin/news/2019/02/06/texas-enterprise-fund-transparency-study-how-often.html)
 
+3. **[Legitimacy, Public-Private Governance Initiatives, and Corporate Responsiveness to Stakeholders](assets/responsiveness_draft.pdf)**
+
 # Work in Progress
 
-1. **[Legitimacy, Public-Private Governance Initiatives, and Corporate Responsiveness to Stakeholders](assets/responsiveness_draft.pdf)**
+1. **Bilateral Treaties, Multinational Firms: The Role of Tax Havens in Investor-State Dispute Settlement**
 
-2. **Bilateral Treaties, Multinational Firms: The Role of Tax Havens in Investor-State Dispute Settlement**
+2. **Elite Endorsement and Public Support for Foreign Direct Investment: Experimental Evidence from an American Indian Nation** (with [Donna Feir](https://www.donnafeir.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
