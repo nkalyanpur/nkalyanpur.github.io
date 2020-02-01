@@ -13,7 +13,7 @@ permalink: /Research/
 1. **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_Jul2019.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) *Under Review*
       * [Appendix](assets/MTW_Jul2019_APPENDICES.pdf)
 
-2. **[Who's Afraid of Sunlight? Explaining Opposition to Transparency in Economic Development](https://equitablegrowth.org/wp-content/uploads/2019/02/0204-Jensen-Thrall-Whos-Afraid-of-Sunlight.pdf})** (with [Nate Jensen](http://www.natemjensen.com/))
+2. **[Who's Afraid of Sunlight? Explaining Opposition to Transparency in Economic Development](assets/Jensen_Thrall_Pitt.docx)** (with [Nate Jensen](http://www.natemjensen.com/))
 *Under Review*
 
       * [WCEG Working Paper](https://equitablegrowth.org/working-papers/whos-afraid-of-sunlight-explaining-opposition-to-transparency-in-economic-development/)
