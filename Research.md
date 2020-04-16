@@ -23,6 +23,6 @@ permalink: /Research/
 
 # Work in Progress
 
-1. **Bilateral Treaties, Multinational Firms: The Role of Tax Havens in Investor-State Dispute Settlement**
+1. **Bilateral Treaties, Multinational Firms: Tax Planning and Investor-State Dispute Settlement**
 
 2. **Elite Endorsement and Public Support for Foreign Direct Investment: Experimental Evidence from an American Indian Nation** (with [Donna Feir](https://www.donnafeir.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
