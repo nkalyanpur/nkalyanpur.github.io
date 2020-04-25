@@ -23,6 +23,6 @@ You can find my CV (last updated April 2020) [here](assets/Thrall_CV_Apr_2020.pd
 
 #### Work in Progress
 
-**Bilateral Treaties, Multinational Firms: Tax Planning and Investor-State Dispute Settlement**
+Bilateral Treaties, Multinational Firms: Tax Planning and Investor-State Dispute Settlement
 
-**Elite Endorsement and Public Support for Foreign Direct Investment: Experimental Evidence from an American Indian Nation** (with [Donna Feir](https://www.donnafeir.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
+Elite Endorsement and Public Support for Foreign Direct Investment: Experimental Evidence from an American Indian Nation (with [Donna Feir](https://www.donnafeir.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
