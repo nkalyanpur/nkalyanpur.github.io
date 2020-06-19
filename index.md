@@ -7,20 +7,21 @@ Hello! I am a PhD student in the Department of Government at [The University of 
 You can find my CV (last updated April 2020) [here](assets/Thrall_CV_Apr_2020.pdf). 
 
 #### Publication
-**[Judicial Economy and Moving Bars in International Investment Arbitration](assets/Moving-Bars-final.pdf)** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Forthcoming, *Review of International Organizations*<br>
+**[Judicial Economy and Moving Bars in International Investment Arbitration](assets/Moving-Bars-final.pdf)** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Forthcoming, *Review of International Organizations*.<br>
 [[Journal format (gated)](https://link.springer.com/article/10.1007/s11558-019-09364-y)] [[Journal format (view only)](https://rdcu.be/bLN9B)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
 
 #### Working Papers
-**[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_Jul2019.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Revise and Resubmit, *Economics & Politics*<br>
+**[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_Jul2019.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Revise and resubmit, *Economics & Politics*.<br>
  [[Appendix](assets/MTW_Jul2019_APPENDICES.pdf)]
  
  
 **[Public-Private Governance Initiatives and Corporate Responsiveness](assets/responsiveness_draft_04_06_20.pdf)**<br>
-Under Review  
+Under review.  
 [[Slides](assets/responsiveness_slides.pdf)]
  
  
 **[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))
+Under review.
 
 **[Who's Afraid of Sunlight? Explaining Opposition to Transparency in Economic Development](assets/Jensen_Thrall_Pitt.docx)** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
 [[WCEG Working Paper](https://equitablegrowth.org/working-papers/whos-afraid-of-sunlight-explaining-opposition-to-transparency-in-economic-development/)]<br>
