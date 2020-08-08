@@ -4,7 +4,7 @@ layout: default
 <br><br>
 Hello! I am a PhD student in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/) and a Research Fellow with [Innovations for Peace and Development](http://www.ipdutexas.org/). During the 2020-2021 academic year, I will also be a Clyde Rabb Littlefield Distinguished Graduate fellow. I study the politics of business, primarily at the international level. I am particularly interested in the regulation of multinational enterprises, the political economy of firm-level trade and investment, and international economic law. Some of my work is forthcoming in *The Review of International Organizations*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017.
 
-You can find my CV (last updated July 2020) [here](assets/Thrall_CV_August2020.pdf). 
+You can find my CV (last updated August 2020) [here](assets/Thrall_CV_August2020.pdf). 
 
 #### Publication
 **[Judicial Economy and Moving Bars in International Investment Arbitration](assets/Moving-Bars-final.pdf)** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Forthcoming, *Review of International Organizations*.<br>
@@ -19,7 +19,8 @@ You can find my CV (last updated July 2020) [here](assets/Thrall_CV_August2020.p
 Resubmitted, *International Organization*.  
 
  
-**[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))
+**[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
+[Commentary: [The Monkey Cage](https://www.washingtonpost.com/politics/2020/08/07/elon-musk-got-millions-tax-breaks-put-plant-austin-heres-why-laws-dont-stop-these-secret-deals/?utm_medium=social&utm_source=twitter&utm_campaign=wp_monkeycage)]
 
 
 **[Who's Afraid of Sunlight? Explaining Opposition to Transparency in Economic Development](assets/Jensen_Thrall_Pitt.docx)** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
