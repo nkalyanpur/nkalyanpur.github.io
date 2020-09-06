@@ -2,21 +2,20 @@
 layout: default
 ---
 <br><br>
-Hello, and thanks for visiting my page! I am a PhD student in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). During the 2020-2021 academic year, I will also be a Clyde Rabb Littlefield Distinguished Graduate fellow. I study the politics of business, primarily at the international level; I am particularly interested in the regulation of multinational enterprises, the political economy of firm-level trade and investment, and international economic law. Some of my work is forthcoming in *The Review of International Organizations*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017. 
+Hello, and thanks for visiting my page! I am a PhD student in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). During the 2020-2021 academic year, I will also be a Clyde Rabb Littlefield Distinguished Graduate fellow. I study the politics of business, primarily at the international level; I am particularly interested in the regulation of multinational enterprises, the political economy of firm-level trade and investment, and international economic law. Some of my work has been accepted for publication in *International Organization* and *The Review of International Organizations*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017. 
 
-You can find my CV (last updated August 2020) [here](assets/Thrall_CV_August2020.pdf). 
+You can find my CV (last updated September 2020) [here](assets/Thrall_CV_Sep2020.pdf). 
 
-#### Publication
+#### Publications
+**[Public-Private Governance Initiatives and Corporate Responses to Stakeholder Complaints](assets/T1_August_2020.pdf)**<br>
+Forthcoming, *International Organization*. 
+
 **[Judicial Economy and Moving Bars in International Investment Arbitration](assets/Moving-Bars-final.pdf)** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Forthcoming, *Review of International Organizations*.<br>
 [[Journal format (gated)](https://link.springer.com/article/10.1007/s11558-019-09364-y)] [[Journal format (view only)](https://rdcu.be/bLN9B)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
 
 #### Working Papers
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_Jul2019.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Resubmitted, *Economics & Politics*.<br>
- [[Appendix](assets/MTW_Jul2019_APPENDICES.pdf)]
- 
- 
-**[Public-Private Governance Initiatives and Corporate Responses to Stakeholder Complaints](assets/T1_August_2020.pdf)**<br>
-Resubmitted, *International Organization*.  
+ [[Appendix](assets/MTW_Jul2019_APPENDICES.pdf)] 
 
  
 **[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
