@@ -16,11 +16,11 @@ Forthcoming, *International Organization*.
 #### Working Papers
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_Jul2019.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Resubmitted, *Economics & Politics*.<br>
  [[Appendix](assets/MTW_Jul2019_APPENDICES.pdf)] 
-
  
+**[The Promise of Foreign Direct Investment: Experimental Evidence from the First Bank in a Native Nation](assets/WFT_NativeFDI_9Sept2020.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/))
+
 **[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
 [Commentary: [The Monkey Cage](https://www.washingtonpost.com/politics/2020/08/07/elon-musk-got-millions-tax-breaks-put-plant-austin-heres-why-laws-dont-stop-these-secret-deals/?utm_medium=social&utm_source=twitter&utm_campaign=wp_monkeycage)]
-
 
 **[Who's Afraid of Sunlight? Explaining Opposition to Transparency in Economic Development](assets/Jensen_Thrall_Pitt.docx)** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
 [[WCEG Working Paper](https://equitablegrowth.org/working-papers/whos-afraid-of-sunlight-explaining-opposition-to-transparency-in-economic-development/)]<br>
@@ -30,4 +30,4 @@ Forthcoming, *International Organization*.
 
 Bilateral Treaties, Multinational Firms: Tax Planning and Investor-State Dispute Settlement
 
-Elite Endorsement and Public Support for Foreign Direct Investment: Experimental Evidence from an American Indian Nation (with [Donna Feir](https://www.donnafeir.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
+
