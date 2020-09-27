@@ -4,7 +4,7 @@ layout: default
 <br><br>
 Hello, and thanks for visiting my page! I am a PhD student in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). During the 2020-2021 academic year, I will also be a Clyde Rabb Littlefield Distinguished Graduate fellow. I study the politics of business, primarily at the international level; I am particularly interested in the regulation of multinational enterprises, the political economy of firm-level trade and investment, and international economic law. Some of my work has been accepted for publication in *International Organization* and *The Review of International Organizations*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017. 
 
-You can find my CV (last updated September 2020) [here](assets/Thrall_CV_Sep2020.pdf). 
+You can find my CV (last updated September 2020) [here](assets/Thrall_CV_Sept2020update.pdf). 
 
 #### Publications
 **[Public-Private Governance Initiatives and Corporate Responses to Stakeholder Complaints](assets/T1_sept_2020.pdf)** Forthcoming, *International Organization*. 
