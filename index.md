@@ -13,7 +13,8 @@ You can find my CV (last updated October 2020) [here](assets/Thrall_CV_Oct2020.p
 [[Journal format (gated)](https://link.springer.com/article/10.1007/s11558-019-09364-y)] [[Journal format (view only)](https://rdcu.be/bLN9B)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
 
 #### Working Papers
-**[Tax Planning, Investor-State Dispute Settlement, and the Challenge of Corporate Nationality](assets/taxplanning_ipes.pdf)**
+**[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_ipes_v3.pdf)** <br>
+[[Slides](assets/taxplanning_ipes_slides.pdf)]
 
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_EP_FINAL.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) 
  
@@ -28,5 +29,6 @@ You can find my CV (last updated October 2020) [here](assets/Thrall_CV_Oct2020.p
 
 #### Works in Progress
 
-Regime Complexity and the Global Firm: Lessons from US Lobbying.
+Regime Complexity and the Global Firm: Lessons from US Lobbying
 
+Business Interests and the Co-evolution of International Treaty Networks
