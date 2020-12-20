@@ -7,7 +7,8 @@ Hello, and thanks for visiting my page! I am a PhD student in the Department of 
 You can find my CV (last updated December 2020) [here](assets/Thrall_CV_Dec2020.pdf). 
 
 #### Publications
-**[Public-Private Governance Initiatives and Corporate Responses to Stakeholder Complaints](assets/T1_sept_2020.pdf)** Forthcoming, *International Organization*. 
+**[Public-Private Governance Initiatives and Corporate Responses to Stakeholder Complaints](assets/T1_sept_2020.pdf)** Forthcoming, *International Organization*. <br>
+[[Replication data + code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MK2OIT)]
 
 **[Judicial Economy and Moving Bars in International Investment Arbitration](assets/Moving-Bars-final.pdf)** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) *Review of International Organizations* 15(4): 923–945. 2020.<br>
 [[Journal format (gated)](https://link.springer.com/article/10.1007/s11558-019-09364-y)] [[Journal format (view only)](https://rdcu.be/bLN9B)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
