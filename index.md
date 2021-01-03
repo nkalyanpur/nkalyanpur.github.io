@@ -19,7 +19,7 @@ You can find my CV (last updated December 2020) [here](assets/Thrall_CV_Dec2020.
 
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_EP_FINAL.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) 
  
-**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](assets/WFT_NativeBanking_v3.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/))
+**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](assets/WFT_NativeBanking_v3.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/)) <br>
  **UPDATED DEC 2020** 
 
 **[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
