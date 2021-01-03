@@ -14,12 +14,13 @@ You can find my CV (last updated December 2020) [here](assets/Thrall_CV_Dec2020.
 [[Journal format (gated)](https://link.springer.com/article/10.1007/s11558-019-09364-y)] [[Journal format (view only)](https://rdcu.be/bLN9B)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
 
 #### Working Papers
-**[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_ipes_v3.pdf)** <br>
-[[Slides](assets/taxplanning_ipes_slides.pdf)]
+**[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_v4.pdf)** <br>
+**UPDATED JAN 2021** 
 
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_EP_FINAL.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) 
  
 **[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](assets/WFT_NativeBanking_v3.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/))
+ **UPDATED DEC 2020** 
 
 **[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
 [Commentary: [The Monkey Cage](https://www.washingtonpost.com/politics/2020/08/07/elon-musk-got-millions-tax-breaks-put-plant-austin-heres-why-laws-dont-stop-these-secret-deals/?utm_medium=social&utm_source=twitter&utm_campaign=wp_monkeycage)]
