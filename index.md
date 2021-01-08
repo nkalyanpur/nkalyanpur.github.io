@@ -38,4 +38,4 @@ Revise and Resubmit, *Business & Politics* <br>
 
 Regime Complexity and the Global Firm: Lessons from US Lobbying
 
-Business Interests and the Co-evolution of International Treaty Networks
+The Co-evolution of Treaty Regimes
