@@ -2,19 +2,23 @@
 layout: default
 ---
 <br><br>
-Hello, and thanks for visiting my page! I am a PhD student in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). During the 2020-2021 academic year, I will also be a Clyde Rabb Littlefield Distinguished Graduate fellow. I study the politics of business, primarily at the international level; I am particularly interested in the regulation of multinational enterprises, the political economy of firm-level trade and investment, and international economic law. Some of my work has been accepted for publication in *International Organization* and *The Review of International Organizations*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017. 
+Hello, and thanks for visiting my page! I am a PhD student in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/), where I am also a Clyde Rabb Littlefield Distinguished Graduate fellow for the 2020-2021 academic year. I study the politics of business, primarily at the international level; I am particularly interested in the regulation of multinational enterprises, the political economy of firm-level trade and investment, and international economic law. Some of my work has been accepted for publication in *International Organization* and *The Review of International Organizations*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017. 
 
-You can find my CV (last updated December 2020) [here](assets/Thrall_CV_Dec2020.pdf). 
+You can find my CV (last updated January 2021) [here](assets/Thrall_CV_Jan_2021.pdf). 
 
 #### Publications
 **[Public-Private Governance Initiatives and Corporate Responses to Stakeholder Complaints](assets/T1_sept_2020.pdf)** Forthcoming, *International Organization*. <br>
 [[Replication data + code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MK2OIT)]
+
+**[Ownership and Trust in Banks: Evidence from the First Bank in an American Indian Nation](assets/ASSA_Draft_PP_7Jan2020_v2_copy.pdf)** (with [Donna Feir](https://www.donnafeir.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Forthcoming, *American Economic Association: Papers & Proceedings* (formerly *American Economic Review: Papers & Proceedings)*. 2021.<br>
+[[Appendix](assets/ASSA_Appendix.pdf)]
 
 **[Judicial Economy and Moving Bars in International Investment Arbitration](assets/Moving-Bars-final.pdf)** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) *Review of International Organizations* 15(4): 923–945. 2020.<br>
 [[Journal format (gated)](https://link.springer.com/article/10.1007/s11558-019-09364-y)] [[Journal format (view only)](https://rdcu.be/bLN9B)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
 
 #### Working Papers
 **[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_v4.pdf)** <br>
+*David A. Lake Award* for best paper presented at the International Political Economy Society's annual meeting (2020).<br>
 **UPDATED JAN 2021** 
 
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_EP_FINAL.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) 
