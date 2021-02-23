@@ -10,14 +10,15 @@ You can find my CV (last updated January 2021) [here](assets/Thrall_CV_Jan_2021.
 **[Public-Private Governance Initiatives and Corporate Responses to Stakeholder Complaints](assets/T1_sept_2020.pdf)** Forthcoming, *International Organization*. 
 * [[Replication data + code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MK2OIT)]
 
-**[Ownership and Trust in Banks: Evidence from the First Bank in an American Indian Nation](assets/FWT_AEA_PP_Manuscript_8Jan2020.pdf)** (with [Donna Feir](https://www.donnafeir.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Forthcoming, *American Economic Association: Papers & Proceedings* (formerly *AER: P&P)*. 2021.
+**[Ownership and Trust in Banks: Evidence from the First Bank in an American Indian Nation](assets/FWT_AEA_PP_Manuscript_8Jan2020.pdf)** (with [Donna Feir](https://www.donnafeir.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Forthcoming, *American Economic Association: Papers and Proceedings*. 2021.
 * [[Appendix](assets/FWT_AEA_PP_Appendix_8Jan2020.pdf)]
 
 **[Judicial Economy and Moving Bars in International Investment Arbitration](assets/Moving-Bars-final.pdf)** (with [Leslie Johns](http://lesliejohns.me/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) *Review of International Organizations* 15(4): 923–945. 2020.
 * [[Journal format (gated)](https://link.springer.com/article/10.1007/s11558-019-09364-y)] [[Journal format (view only)](https://rdcu.be/bLN9B)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
 
 #### Working Papers
-**[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_v4.pdf)** 
+**[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_v4.pdf)**<br>
+Under Review<br>
 * *David A. Lake Award* for best paper presented at the International Political Economy Society's annual meeting (2020).
 * **UPDATED JAN 2021** 
 
