@@ -20,7 +20,7 @@ You can find my CV (last updated January 2021) [here](assets/Thrall_CV_Jan_2021.
 **[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_v4.pdf)**<br>
 Under Review<br>
 * *David A. Lake Award* for best paper presented at the International Political Economy Society's annual meeting (2020).
-* **UPDATED JAN 2021** 
+* **UPDATED FEB 2021** 
 
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_EP_FINAL.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) 
  
@@ -37,6 +37,8 @@ Revise and Resubmit, *Business & Politics*
 
 #### Works in Progress
 
+The Co-evolution of Treaty Regimes
+
 Regime Complexity and the Global Firm: Lessons from US Lobbying
 
-The Co-evolution of Treaty Regimes
+When is Private Commerce in the Public Interest? Evidence from Advocacy Requests
