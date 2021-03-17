@@ -4,7 +4,7 @@ layout: default
 <br><br>
 Hello, and thanks for visiting my page! I am a PhD student in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/), where I am also a Clyde Rabb Littlefield Distinguished Graduate fellow for the 2020-2021 academic year. I study the politics of business, primarily at the international level; topics of particular interest include lobbying, taxation, and commercial diplomacy. Some of my work has been accepted for publication in *International Organization* and *The Review of International Organizations*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017. 
 
-You can find my CV (last updated March 2021) [here](assets/Thrall_CV_March2021.pdf). 
+You can find my CV (last updated March 2021) [here](assets/Thrall_CV_March2021_2.pdf). 
 
 #### Publications
 **[Public-Private Governance Initiatives and Corporate Responses to Stakeholder Complaints](assets/T1_sept_2020.pdf)** Forthcoming, *International Organization*. 
@@ -24,8 +24,9 @@ Under Review<br>
 
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_EP_FINAL.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) 
  
-**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](assets/WFT_NativeBanking_v3.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/))
- * **UPDATED DEC 2020** 
+**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](assets/WFT_NativeBanking_v6.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/))<br>
+Under Review<br>
+ * **UPDATED MAR 2021** 
 
 **[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))
 * [Commentary: [The Monkey Cage](https://www.washingtonpost.com/politics/2020/08/07/elon-musk-got-millions-tax-breaks-put-plant-austin-heres-why-laws-dont-stop-these-secret-deals/?utm_medium=social&utm_source=twitter&utm_campaign=wp_monkeycage)]
