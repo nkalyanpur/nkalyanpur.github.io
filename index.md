@@ -2,7 +2,7 @@
 layout: default
 ---
 <br><br>
-Hello, and thanks for visiting my page! I am a PhD student in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/), where I am also a Clyde Rabb Littlefield Distinguished Graduate fellow for the 2020-2021 academic year. I study the politics of business, primarily at the international level; topics of particular interest include lobbying, taxation, and commercial diplomacy. Some of my work has been accepted for publication in *International Organization* and *The Review of International Organizations*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017. 
+Hello, and thanks for visiting my page! I am a PhD student in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/), where I am also a Clyde Rabb Littlefield Distinguished Graduate fellow for the 2020-2021 academic year. I study the politics of business, primarily at the international level; topics of particular interest include international economic law, taxation, public-private governance, and commercial diplomacy. Some of my work has been accepted for publication in *International Organization* and *The Review of International Organizations*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017. 
 
 You can find my CV (last updated March 2021) [here](assets/Thrall_CV_March2021_2.pdf). 
 
@@ -22,7 +22,8 @@ Under Review<br>
 * *David A. Lake Award* for best paper presented at the International Political Economy Society's annual meeting (2020).
 * **UPDATED FEB 2021** 
 
-**[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_EP_FINAL.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) 
+**[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement]** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
+* Under construction; new draft coming soon
  
 **[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](assets/WFT_NativeBanking_v6.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/))<br>
 Under Review<br>
