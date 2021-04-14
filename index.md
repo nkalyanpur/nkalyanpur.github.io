@@ -8,9 +8,8 @@ You can find my CV (last updated April 2021) [here](assets/Thrall_CV_April2021.p
 
 #### Publications
 
-**Who's Afraid of Sunlight? Explaining Opposition to Transparency in Economic Development** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
+**[Who's Afraid of Sunlight? Explaining Opposition to Transparency in Economic Development](assets/Jensen_Thrall_Business_and_Politics_2_8_21.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))<br>
 Forthcoming, *Business & Politics*.
-* [[WCEG Working Paper](https://equitablegrowth.org/working-papers/whos-afraid-of-sunlight-explaining-opposition-to-transparency-in-economic-development/)]<br>
 * [Press/Commentary: [The Conversation](https://theconversation.com/amazon-hq2-texas-experience-shows-why-new-yorkers-should-be-skeptical-111137?utm_source=twitter&utm_medium=twitterbutton), [Austin-American Statesman](https://www.statesman.com/opinion/20190206/commentary-transparency-economic-development-regulations-are-dying-in-texas), [Dallas Morning News](https://www.dallasnews.com/opinion/commentary/2019/02/05/sweetheart-deal-deal-texas-trims-job-goals-companies-wont-hit-em), [Austin Business Journal](https://www.bizjournals.com/austin/news/2019/02/06/texas-enterprise-fund-transparency-study-how-often.html)]
 
 **[Public-Private Governance Initiatives and Corporate Responses to Stakeholder Complaints](assets/T1_sept_2020.pdf)** Forthcoming, *International Organization*. 
