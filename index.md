@@ -29,7 +29,7 @@ Forthcoming, *Business & Politics*.
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement]** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
 * Under construction; new draft coming soon
  
-**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](assets/WFT_NativeBanking_v6.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/))<br>
+**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](https://www.minneapolisfed.org/~/media/assets/papers/cicdwp/2021/cicd-wp-2021-01.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/)) Center for Indian Country Development Working Paper No. 2021-01. <br>
 Under Review<br>
  * [[Write-up from the Minneapolis Fed](https://www.minneapolisfed.org/article/2021/institutional-support-sways-tribal-opinions-of-groundbreaking-bank)] 
 
