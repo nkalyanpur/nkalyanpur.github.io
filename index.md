@@ -24,22 +24,22 @@ Forthcoming, *Business & Politics*.
 #### Working Papers
 **[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_v4.pdf)**<br>
 * *David A. Lake Award* for best paper presented at the International Political Economy Society's annual meeting (2020).
-* **UPDATED FEB 2021** 
+
 
 **[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement]** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
 * Under construction; new draft coming soon
  
 **[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](assets/WFT_NativeBanking_v6.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/))<br>
 Under Review<br>
- * **UPDATED MAR 2021** 
+ * [[Write-up from the Minneapolis Fed](https://www.minneapolisfed.org/article/2021/institutional-support-sways-tribal-opinions-of-groundbreaking-bank)] 
 
 **[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))
 * [Commentary: [The Monkey Cage](https://www.washingtonpost.com/politics/2020/08/07/elon-musk-got-millions-tax-breaks-put-plant-austin-heres-why-laws-dont-stop-these-secret-deals/?utm_medium=social&utm_source=twitter&utm_campaign=wp_monkeycage)]
 
 #### Works in Progress
 
-The Co-evolution of Treaty Regimes
+Treaty Diplomacy and the Global Firm
 
-Regime Complexity and the Global Firm: Lessons from US Lobbying
+Treaty Exposure and the Foreign Economic Policy Lobby
 
 Extraterritorial Arbitration (with [Nikhil Kalyanpur](http://www.nkalyanpur.com/))
