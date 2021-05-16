@@ -42,4 +42,4 @@ Treaty Diplomacy and the Global Firm
 
 The Foreign Economic Policy Lobby
 
-Extraterritorial Arbitration (with [Nikhil Kalyanpur](http://www.nkalyanpur.com/))
+Exporting Capital, Importing Law (with [Nikhil Kalyanpur](http://www.nkalyanpur.com/))
