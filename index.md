@@ -2,9 +2,9 @@
 layout: default
 ---
 <br><br>
-Hello, and thanks for visiting my page! I am a PhD candidate in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/), where I am also a Clyde Rabb Littlefield Distinguished Graduate fellow for the 2020-2021 academic year. I study the politics of business, primarily at the international level; topics of particular interest include international economic law, taxation, public-private governance, and commercial diplomacy. Some of my work has been accepted for publication in *International Organization*, *The Review of International Organizations*, and *Business and Politics*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017. 
+Hello, and thanks for visiting my page! I am a PhD candidate in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). I study the politics of business, primarily at the international level; topics of particular interest include international economic law, taxation, public-private governance, and commercial diplomacy. Some of my work has been accepted for publication in *International Organization*, *The Review of International Organizations*, and *Business and Politics*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017, and remain convinced that Philadelphia is the world's greatest city. I will be on the academic job market in AY 2021/2022.
 
-You can find my CV (last updated May 2021) [here](assets/Thrall_CV_May2021_2.pdf). 
+You can find my CV (last updated May 2021) [here](assets/Thrall_CV_May2021_4.pdf). 
 
 #### Publications
 
@@ -22,6 +22,8 @@ Forthcoming, *Business & Politics*.
 * [[Journal format (gated)](https://link.springer.com/article/10.1007/s11558-019-09364-y)] [[Journal format (view only)](https://rdcu.be/bLN9B)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
 
 #### Working Papers
+**[Exporting Capital, Importing Law](assets/kalyanpur_thrall_v1.pdf)** (with [Nikhil Kalyanpur](http://www.nkalyanpur.com/))
+
 **[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_v4.pdf)**<br>
 * *David A. Lake Award* for best paper presented at the International Political Economy Society's annual meeting (2020).
 
@@ -41,5 +43,3 @@ Under Review<br>
 Treaty Diplomacy and the Global Firm
 
 The Foreign Economic Policy Lobby
-
-Exporting Capital, Importing Law (with [Nikhil Kalyanpur](http://www.nkalyanpur.com/))
