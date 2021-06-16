@@ -4,7 +4,7 @@ layout: default
 <br><br>
 Hello, and thanks for visiting my page! I am a PhD candidate in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). I study the politics of business, primarily at the international level; topics of particular interest include international economic law, taxation, public-private governance, and commercial diplomacy. Some of my work has been accepted for publication in *International Organization*, *The Review of International Organizations*, and *Business and Politics*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017, and remain convinced that Philadelphia is the world's greatest city. I will be on the academic job market in AY 2021/2022.
 
-You can find my CV (last updated May 2021) [here](assets/Thrall_CV_May2021_4.pdf). 
+You can find my CV (last updated June 2021) [here](assets/Thrall_CV_June2021.pdf). 
 
 #### Publications
 
@@ -22,7 +22,7 @@ Forthcoming, *Business & Politics*.
 * [[Journal format (gated)](https://link.springer.com/article/10.1007/s11558-019-09364-y)] [[Journal format (view only)](https://rdcu.be/bLN9B)]  [[Replication data + code](assets/JoThWe_replication_materials.zip)]
 
 #### Working Papers
-**[Exporting Capital, Importing Law](assets/kalyanpur_thrall_v1.pdf)** (with [Nikhil Kalyanpur](http://www.nkalyanpur.com/))
+**[Exporting Capital, Importing Law](assets/kalyanpur_thrall_v2.pdf)** (with [Nikhil Kalyanpur](http://www.nkalyanpur.com/)) Under Review.
 
 **[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_v4.pdf)**<br>
 * *David A. Lake Award* for best paper presented at the International Political Economy Society's annual meeting (2020).
@@ -31,8 +31,7 @@ Forthcoming, *Business & Politics*.
 **Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
 * Under construction; new draft coming soon
  
-**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](https://www.minneapolisfed.org/~/media/assets/papers/cicdwp/2021/cicd-wp-2021-01.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/)) Center for Indian Country Development Working Paper No. 2021-01. <br>
-Under Review<br>
+**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](https://www.minneapolisfed.org/~/media/assets/papers/cicdwp/2021/cicd-wp-2021-01.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/)) Center for Indian Country Development Working Paper No. 2021-01. Under Review.
  * [[Write-up from the Minneapolis Fed](https://www.minneapolisfed.org/article/2021/institutional-support-sways-tribal-opinions-of-groundbreaking-bank)] 
 
 **[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))
