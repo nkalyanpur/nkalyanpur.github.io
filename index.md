@@ -31,7 +31,7 @@ Forthcoming, *Business & Politics*.
 **Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
 * Under construction; new draft coming soon
  
-**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](https://www.minneapolisfed.org/~/media/assets/papers/cicdwp/2021/cicd-wp-2021-01.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/)) Center for Indian Country Development Working Paper No. 2021-01. Under Review.
+**[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](https://www.minneapolisfed.org/~/media/assets/papers/cicdwp/2021/cicd-wp-2021-01.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/)) Center for Indian Country Development Working Paper No. 2021-01. 
  * [[Write-up from the Minneapolis Fed](https://www.minneapolisfed.org/article/2021/institutional-support-sways-tribal-opinions-of-groundbreaking-bank)] 
 
 **[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))
