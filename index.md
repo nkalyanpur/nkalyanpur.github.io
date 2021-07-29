@@ -4,7 +4,7 @@ layout: default
 <br><br>
 Hello, and thanks for visiting my page! I am a PhD candidate in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). I study the politics of business, primarily at the international level; topics of particular interest include international economic law, taxation, public-private governance, and commercial diplomacy. Some of my work has been accepted for publication in *International Organization*, *The Review of International Organizations*, and *Business and Politics*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017, and remain convinced that Philadelphia is the world's greatest city. I am currently on the academic job market.
 
-You can find my CV (last updated July 2021) [here](assets/Thrall_CV_August2021.pdf). 
+You can find my CV (last updated August 2021) [here](assets/Thrall_CV_August2021_2.pdf). 
 
 #### Publications (Peer-reviewed)
 
