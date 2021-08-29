@@ -2,7 +2,7 @@
 layout: default
 ---
 <br><br>
-Hello, and thanks for visiting my page! I am a PhD candidate in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). I study the politics of business, primarily at the international level; topics of particular interest include international economic law, taxation, public-private governance, and commercial diplomacy. Some of my work has been accepted for publication in *International Organization*, *The Review of International Organizations*, and *Business and Politics*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017, and remain convinced that Philadelphia is the world's greatest city. I am currently on the academic job market.
+Hello, and thanks for visiting my page! I am a PhD candidate in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). I study the politics of business, primarily at the international level; topics of particular interest include international economic law, taxation, public-private governance, and diplomacy. Some of my work has been published in *International Organization*, *The Review of International Organizations*, *Business and Politics*, and *AEA: Papers and Proceedings*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017, and remain convinced that Philadelphia is the world's greatest city. I am currently on the academic job market.
 
 You can find my CV (last updated August 2021) [here](assets/Thrall_CV_August2021_2.pdf). 
 
@@ -35,12 +35,15 @@ Forthcoming, *Business & Politics*.
 **[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](https://www.minneapolisfed.org/~/media/assets/papers/cicdwp/2021/cicd-wp-2021-01.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/)) Center for Indian Country Development Working Paper No. 2021-01. 
  * [[Write-up from the Minneapolis Fed](https://www.minneapolisfed.org/article/2021/institutional-support-sways-tribal-opinions-of-groundbreaking-bank)] 
 
-**[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))
-* [Commentary: [The Monkey Cage](https://www.washingtonpost.com/politics/2020/08/07/elon-musk-got-millions-tax-breaks-put-plant-austin-heres-why-laws-dont-stop-these-secret-deals/?utm_medium=social&utm_source=twitter&utm_campaign=wp_monkeycage)]
+
+**[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_2021.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
+* **New draft** [August 2021]
 
 #### Works in Progress
 
-**Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
-* Under construction; new draft coming soon
+Diplomats for Hire? Revolving Door Politics in the Foreign Policy Lobby
 
-The Foreign Economic Policy Lobby
+The Fiscal Legacy of Colonialism (with [Vincent Arel-Bundock](http://arelbundock.com/) and [Martin Hearson](https://martinhearson.net/))
+
+**[Does Transparency Improve Public Policy? Causal Evidence from a Tax Incentive Transparency Initiative](assets/Transparency_and_Tax_Breaks__Causal_Evidence_from_GASB_77.pdf)** (with [Nathan M. Jensen](http://www.natemjensen.com/))
+* [Commentary: [The Monkey Cage](https://www.washingtonpost.com/politics/2020/08/07/elon-musk-got-millions-tax-breaks-put-plant-austin-heres-why-laws-dont-stop-these-secret-deals/?utm_medium=social&utm_source=twitter&utm_campaign=wp_monkeycage)]
