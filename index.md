@@ -4,7 +4,7 @@ layout: default
 <br><br>
 Hello, and thanks for visiting my page! I am a PhD candidate in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). I study the politics of business, primarily at the international level; topics of particular interest include international economic law, taxation, public-private governance, and diplomacy. Some of my work has been published in *International Organization*, *The Review of International Organizations*, *Business and Politics*, and *AEA: Papers and Proceedings*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017, and remain convinced that Philadelphia is the world's greatest city. I am currently on the academic job market.
 
-You can find my CV (last updated August 2021) [here](assets/Thrall_CV_August2021_2.pdf). 
+You can find my CV (last updated September 2021) [here](assets/Thrall_CV_Sep2021.pdf). 
 
 #### Publications (Peer-reviewed)
 
@@ -23,20 +23,22 @@ Forthcoming, *Business & Politics*.
 **[Ownership and Trust in Banks: Evidence from the First Bank in an American Indian Nation](assets/FWT_AEA_PP_Manuscript_8Jan2020.pdf)** (with [Donna Feir](https://www.donnafeir.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) *American Economic Association: Papers and Proceedings* 111: 227-232. 2021.
 * [[Journal format (gated)](https://www.aeaweb.org/articles?id=10.1257/pandp.20211015)] [[Appendix](assets/FWT_AEA_PP_Appendix_8Jan2020.pdf)]
 
-#### Working Papers
+#### Job Market Paper
 
-**[Treaty Diplomacy and the Global Firm](assets/JMP_alt.pdf)**
+**[Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_JMP.pdf)**
+* *David A. Lake Award* for best paper presented at the International Political Economy Society's annual meeting (2020).
+
+#### Working Papers
 
 **[Exporting Capital, Importing Law](assets/kalyanpur_thrall_v2.pdf)** (with [Nikhil Kalyanpur](http://www.nkalyanpur.com/)) Revise and Resubmit, *American Political Science Review*.
 
-**[Spillover Effects in International Law: The Case of Tax Planning and Investor-State Dispute Settlement](assets/taxplanning_v4.pdf)**<br>
-* *David A. Lake Award* for best paper presented at the International Political Economy Society's annual meeting (2020).
+**[Treaty Diplomacy and the Global Firm](assets/JMP_alt.pdf)**
  
 **[The Promise of Economic Integration: Evidence from the First Bank in a Native Nation](https://www.minneapolisfed.org/~/media/assets/papers/cicdwp/2021/cicd-wp-2021-01.pdf)** (with [Rachel Wellhausen](http://www.rwellhausen.com/) and [Donna Feir](https://www.donnafeir.com/)) Center for Indian Country Development Working Paper No. 2021-01. 
  * [[Write-up from the Minneapolis Fed](https://www.minneapolisfed.org/article/2021/institutional-support-sways-tribal-opinions-of-groundbreaking-bank)] 
 
 
-**[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_2021.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/))
+**[Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/MTW_2021.pdf)** (with [Carolina Moehlecke](https://www.carolinamoehlecke.com/) and [Rachel Wellhausen](http://www.rwellhausen.com/)) Under review.
 * **New draft** [August 2021]
 
 #### Works in Progress
