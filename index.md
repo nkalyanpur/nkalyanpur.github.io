@@ -2,9 +2,9 @@
 layout: default
 ---
 <br><br>
-Hello, and thanks for visiting my page! I am a PhD candidate in the Department of Government at [The University of Texas at Austin](https://liberalarts.utexas.edu/government/). I study the politics of business, primarily at the international level; topics of particular interest include international economic law, taxation, public-private governance, and diplomacy. Some of my work has been published in *International Organization*, *The Review of International Organizations*, *Business and Politics*, and *AEA: Papers and Proceedings*. I received a BA in Political Science from [Temple University](https://www.temple.edu/) in 2017, and remain convinced that Philadelphia is the world's greatest city. I am currently on the academic job market.
+Hi! I am an Assistant Professor at the [Internanional Relations Department of the London School of Economics]. (https://www.lse.ac.uk/international-relations). I research topics at the intersection of extraterritorial governance and economic statecraft. Some of my work has been published in the *European Journal of International Relations, *International Organization*, *Journal of Common Market Studies, *Perspectives on Politics*, and the * Review of International Political Economy**. Prior to graduate at Georgetown University's Government Derpartment, I received a BA in Philosophy, Politics, and Economics from Brown University and worked as a Research Associate at Harvard Business School.
 
-You can find my CV (last updated September 2021) [here](assets/Thrall_CV_Sep2021.pdf). 
+You can find my CV [here](). 
 
 #### Publications (Peer-reviewed)
 
