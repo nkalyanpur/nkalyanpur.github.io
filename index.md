@@ -8,7 +8,6 @@ I received a PhD in [Government from Georgetown University](https://government.g
 
 I spend a disproportionate amount of my time reading and thinking about Manchester United, often bemoaning our need for a defensive midfielder.
 
-You can find my CV [here](). 
 
 #### *Academic Publications*
 
