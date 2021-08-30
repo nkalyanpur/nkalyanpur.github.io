@@ -10,7 +10,7 @@ I spend a disproportionate amount of my time reading and thinking about Manchest
 
 You can find my CV [here](). 
 
-#### Academic Publications
+#### *Academic Publications*
 
 **[The Financialization of International Law](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/financialization-of-international-law/2926149AFB555E54A1DB4C93D8CF2760)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *Perspectives on Politics* 2020.
 
@@ -27,7 +27,7 @@ You can find my CV [here]().
 **[Networked Liabilities: Transnational authority in a world of transnational business](https://journals.sagepub.com/doi/abs/10.1177/1354066116679245)** (with [Loriana Crasnic](https://www.loricrasnic.net/) and [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *European Journal of International Relations* 23(4): 906-929 2017. 
 
 
-#### Work-in-Progress
+#### *Work-in-Progress*
 **Liberalism as Last Resort**, *Article and Book Project*
 
 **Exporting Capital, Importing Law** (with [Calvin Thrall](calvinthrall.github.io))
