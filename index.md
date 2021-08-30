@@ -2,7 +2,7 @@
 layout: default
 ---
 <br><br>
-Hi! I am an Assistant Professor at the [Internanional Relations Department of the London School of Economics] (https://www.lse.ac.uk/international-relations). I research topics at the intersection of extraterritorial governance and economic statecraft. Some of my work has been published in the *European Journal of International Relations, *International Organization*, *Journal of Common Market Studies, *Perspectives on Politics*, and the * Review of International Political Economy**. Prior to graduate at Georgetown University's Government Derpartment, I received a BA in Philosophy, Politics, and Economics from Brown University and worked as a Research Associate at Harvard Business School.
+Hi! I am an Assistant Professor at the [Internanional Relations Department of the London School of Economics](https://www.lse.ac.uk/international-relations). I research topics at the intersection of business-government relations, extraterritorial governance and economic statecraft. Some of my work has been published in the *European Journal of International Relations*, *International Organization*, *Journal of Common Market Studies*, *Perspectives on Politics*, and the * Review of International Political Economy*. Prior to graduate school, I received a BA in Philosophy, Politics, and Economics from Brown University and worked as a Research Associate at Harvard Business School. I spend a disproportionate amount of my time reading and thinking about Manchester United, often bemoaning our need for a defensive midfielder.
 
 You can find my CV [here](). 
 
