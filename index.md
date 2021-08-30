@@ -16,7 +16,7 @@ You can find my CV [here]().
 
 **[Domestic Courts, Transnational Law, and International Order](https://journals.sagepub.com/doi/full/10.1177/1354066120938843)** (with [Filiz Kahraman](https://www.utsc.utoronto.ca/polisci/people/filiz-kahraman) and [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *European Journal of International Relations* 26(1): 184-208 2020. 
 
-**[The MNC-Coalition Paradox: Issue Salience, Foreign Firms, and the General Data Protection Regulation.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.12810)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *JCMS: Journal of Common Market Studies* 2019. 
+**[The MNC-Coalition Paradox: Issue Salience, Foreign Firms, and the General Data Protection Regulation](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.12810)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *JCMS: Journal of Common Market Studies* 2019. 
 
 **[Mobilizing Market Power: Evidence from firm reactions to Sarbanes-Oxley](https://www.cambridge.org/core/journals/international-organization/article/abs/mobilizing-market-power-jurisdictional-expansion-as-economic-statecraft/880511974FC84FF93C95403A11788147)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *International Organization* 73(1): 1-34 2019. 
 
