@@ -12,11 +12,19 @@ You can find my CV [here]().
 
 #### Academic Publications
 
-**[The Financialization of International Law](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/financialization-of-international-law/2926149AFB555E54A1DB4C93D8CF2760)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br>
-Forthcoming, *Perspectives on Politics*.
+**[The Financialization of International Law](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/financialization-of-international-law/2926149AFB555E54A1DB4C93D8CF2760)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *Perspectives on Politics* 2020.
 
-**[Domestic Courts, Transnational Law, and International Order](https://journals.sagepub.com/doi/full/10.1177/1354066120938843)** (with [Filiz Kahraman](https://www.utsc.utoronto.ca/polisci/people/filiz-kahraman) and [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *European Journal of International Relations* 26(1): 184-208. 2021. 
+**[Domestic Courts, Transnational Law, and International Order](https://journals.sagepub.com/doi/full/10.1177/1354066120938843)** (with [Filiz Kahraman](https://www.utsc.utoronto.ca/polisci/people/filiz-kahraman) and [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *European Journal of International Relations* 26(1): 184-208 2020. 
 
+**[The MNC-Coalition Paradox: Issue Salience, Foreign Firms, and the General Data Protection Regulation.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.12810)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *JCMS: Journal of Common Market Studies* 2019. 
+
+**[Mobilizing Market Power: Evidence from firm reactions to Sarbanes-Oxley](https://www.cambridge.org/core/journals/international-organization/article/abs/mobilizing-market-power-jurisdictional-expansion-as-economic-statecraft/880511974FC84FF93C95403A11788147)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *International Organization* 73(1): 1-34 2019. 
+
+**[Hegemony, Inequality, and the Quest for Primacy](https://academic.oup.com/jogss/article-abstract/3/3/371/5053988?redirectedFrom=fulltext)** <br> *Journal of Global Security Studies* 3(3): 371-384 2018. 
+
+**[Form Over Function in Finance: International Institutional Design by Bricolage](https://www.tandfonline.com/doi/abs/10.1080/09692290.2017.1307777?journalCode=rrip20)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *Review of International Political Economy* 24(3): 363-392 2017. 
+
+**[Networked Liabilities: Transnational authority in a world of transnational business](https://journals.sagepub.com/doi/abs/10.1177/1354066116679245)** (with [Loriana Crasnic](https://www.loricrasnic.net/) and [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *European Journal of International Relations* 23(4): 906-929 2017. 
 
 
 #### Work-in-Progress
