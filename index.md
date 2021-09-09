@@ -12,7 +12,7 @@ I spend a disproportionate amount of my time reading and thinking about Manchest
 
 #### *Academic Publications*
 
-**[The Financialization of International Law](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/financialization-of-international-law/2926149AFB555E54A1DB4C93D8CF2760)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *Perspectives on Politics* 2020.
+**[The Financialization of International Law](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/financialization-of-international-law/2926149AFB555E54A1DB4C93D8CF2760)** (with [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *Perspectives on Politics* 19(3): 773-790 2021.
 
 **[Domestic Courts, Transnational Law, and International Order](https://journals.sagepub.com/doi/full/10.1177/1354066120938843)** (with [Filiz Kahraman](https://www.utsc.utoronto.ca/polisci/people/filiz-kahraman) and [Abraham Newman](https://abrahamnewman.georgetown.domains/about/))<br> *European Journal of International Relations* 26(1): 184-208 2020. 
 
