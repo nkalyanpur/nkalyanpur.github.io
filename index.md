@@ -9,6 +9,8 @@ I received a PhD in [Government from Georgetown University](https://government.g
 
 I spend a disproportionate amount of my time reading and thinking about Manchester United, often bemoaning our need for a defensive midfielder.
 
+You can access my [CV Here]([https://abrahamnewman.georgetown.domains/about/](https://www.dropbox.com/s/813ze8qscm40hmg/Kalyanpur.CV.27072022.pdf?raw=1)). 
+
 
 #### *Academic Publications*
 
