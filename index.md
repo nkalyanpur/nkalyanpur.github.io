@@ -7,7 +7,7 @@ Hello! I am an Assistant Professor at the [International Relations Department of
 
 I received a PhD in [Government from Georgetown University](https://government.georgetown.edu/#) and was a postdoctoral fellow at Princeton University's [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) for the 2020-2021 academic year. Before graduate school, I studied Philosophy, Politics, and Economics at Brown University and worked as a Research Associate at Harvard Business School. 
 
-I spend a disproportionate amount of my time reading and thinking about Manchester United, often bemoaning our need for a defensive midfielder.
+I spend a disproportionate amount of my time reading and thinking about Manchester United, often bemoaning the fraility of our frontline.
 
 
 #### *Academic Publications*
