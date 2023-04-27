@@ -11,6 +11,7 @@ I spend a disproportionate amount of my time reading and thinking about Manchest
 
 
 #### *Academic Publications*
+**An Illiberal Economic Order: Commitment mechanisms become tools of authoritarian coercion** *Review of International Political Economy* Accepted.
 
 **[The limits of global property rights: Quasi-Experimental evidence from the Energy Charter Treaty](https://www.sciencedirect.com/science/article/abs/pii/S0301421522002592)** (with [Paula Ganga](http://www.paulaganga.com/))<br> *Energy Policy* 167 2022.
 
