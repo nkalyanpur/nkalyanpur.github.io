@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<meta http-equiv="refresh" content="0;url=https://nikhilk.bearblog.dev/">
 
 <br><br>
 Hello! I am an Assistant Professor at the [International Relations Department of the London School of Economics](https://www.lse.ac.uk/international-relations). I research topics at the intersection of business-government relations and economic statecraft. More specifically, I focus on the use of domestic institutional tools to achieve geo-strategic ends. 
